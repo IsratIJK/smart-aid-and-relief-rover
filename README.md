@@ -21,7 +21,12 @@ Team: QuantumQuirks
 
 Members:
 1. Israt Jahan Khan (The Project Lead and the sole Developer)
-2. Md. Fahim Bin Amin (The Project Supervising Team mate)
+2. Md. Fahim Bin Amin (The Project supervising team mate)
 3. Syed Hasibul Islam Niloy
 4. Nusrat Akter
 5. Md Jony Khan
+
+
+## Project Report
+[Project Report](Group%203.pdf)
+
