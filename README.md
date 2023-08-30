@@ -1,4 +1,4 @@
-# smart-aid-and-relief-rover
+# Smart Aid And Relief Rover
 Microprocessor  and Microcontroller Lab Project Codebase
 
 ## Project Description
