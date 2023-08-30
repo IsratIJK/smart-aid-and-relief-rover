@@ -30,3 +30,5 @@ Members:
 ## Project Report
 [Project Report](Group%203.pdf)
 
+## Very short video workaround
+[Video](https://www.youtube.com/shorts/HW-ePT3rN-4)
