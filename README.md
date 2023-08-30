@@ -17,7 +17,7 @@ smart truck.
 
 ## Team Information
 
-Team: QuantumQuirks
+**Team: QuantumQuirks**
 
 Members:
 1. Israt Jahan Khan (The Project Lead and the sole Developer)
